@@ -18,6 +18,9 @@
   .header__nav{
     background: purple ;
     color: white;
-    
+    display: flex;
+ height: 50pxgit add;
+    justify-content: center;
+    align-items: center;
   }
   
